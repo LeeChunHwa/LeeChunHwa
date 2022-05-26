@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${Slice}&color=auto&height=${200}&section=header&text=${LeeChunHwa}&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=$Slice&color=auto&height=$200&section=header&text=$LeeChunHwa&fontSize=$50&animation=$twinkling)
 
 <!--
 **LeeChunHwa/LeeChunHwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
