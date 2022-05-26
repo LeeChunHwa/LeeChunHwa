@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![LeeChunHwa's github stats](https://github-readme-stats.vercel.app/api?username=LeeChunHwa&show_icons=true)
 
-/youtube/likes/:videoId
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
