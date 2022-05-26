@@ -4,6 +4,7 @@
 </p>
   (https://leechunhwa.github.io/resume/index.html/)
 </div>
+</div>
 
 
 
@@ -14,7 +15,7 @@
 </div>
 
 
-
+</div>
 
 <h3 align="center">💡 My Used Languages 💡</h3>
 <div align="center">
