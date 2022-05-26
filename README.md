@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeChunHwa&repo=github-readme-stats)](https://github.com/LeeChunHwa/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?LeeChunHwa)](https://github.com/anuraghazra/github-readme-stats)
