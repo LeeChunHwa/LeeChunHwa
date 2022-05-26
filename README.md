@@ -1,7 +1,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=shark&color=timeAuto&height=250&section=header&text=LeeChunHwa&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 
-<h3 align="center">💡 Resume 💡</h3>
-[Resume](https://leechunhwa.github.io/resume/index.html/)
+<h3 align="center">💡 Resume 💡
+[Resume](https://leechunhwa.github.io/resume/index.html)
 <!--
 **LeeChunHwa/LeeChunHwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
