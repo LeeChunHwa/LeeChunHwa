@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">💡 My Git Stats 💡</h3>
- ![LeeChunHwa's github stats](https://github-readme-stats.vercel.app/api?username=LeeChunHwa&show_icons=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeChunHwa&show_icons=true" />
+</div>
+</div>
 
 
 <div align="center">
