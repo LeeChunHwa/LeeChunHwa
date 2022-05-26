@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=LeeChunHwa&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 
 <!--
 **LeeChunHwa/LeeChunHwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
