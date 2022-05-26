@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img alt=".NET" src ="https://img.shields.io/badge/.NET-#512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=#512BD4"/>
+<img alt=".NET" src ="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=512BD4"/>
 
 
 
