@@ -2,7 +2,7 @@
 
 <h3 align="center">💡 Resume 💡
 </p>
-![Resume](https://leechunhwa.github.io/resume/index.html/)
+  (https://leechunhwa.github.io/resume/index.html/)
 </div>
 
 
